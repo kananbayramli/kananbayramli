@@ -4,7 +4,7 @@
 
 💻 I'm proficient in writing clean, maintainable code and have a knack for problem-solving. Whether it's optimizing algorithms for performance or debugging intricate issues, I enjoy the challenges that come with building software.
 
-📫 Want to connect or collaborate? Feel free to reach out to me on [https://www.linkedin.com/in/kanan-bayram-570452254/]. I'm always open to interesting projects, discussions, and opportunities to learn and grow.
+📫 Want to connect or collaborate? Feel free to reach out to me on [https://www.linkedin.com/in/kanan-bayram]. I'm always open to interesting projects, discussions, and opportunities to learn and grow.
 
 <!--
 **kananbayramli/kananbayramli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
