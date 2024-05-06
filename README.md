@@ -1,10 +1,10 @@
 👋 Hello there! I'm Kanan, a passionate backend developer with a love for crafting efficient and scalable software solutions.
 
-🚀 In my journey as a developer, I've had the opportunity to delve deep into the world of backend development, specializing in technologies such as [.NET, C#, ASPNET CORE, EF CORE, ADONET, MSSQL]. I thrive in environments where I can leverage my skills to architect robust systems, optimize database performance, and design scalable APIs.
+🚀 In my journey as a developer, I've had the opportunity to delve deep into the world of backend development, specializing in technologies such as .NET, C#, ASPNET CORE, EF CORE, ADONET, MSSQL . I thrive in environments where I can leverage my skills to architect robust systems, optimize database performance, and design scalable APIs.
 
 💻 I'm proficient in writing clean, maintainable code and have a knack for problem-solving. Whether it's optimizing algorithms for performance or debugging intricate issues, I enjoy the challenges that come with building software.
 
-📫 Want to connect or collaborate? Feel free to reach out to me on [https://www.linkedin.com/in/kanan-bayram]. I'm always open to interesting projects, discussions, and opportunities to learn and grow.
+📫 Want to connect or collaborate? Feel free to reach out to me on https://www.linkedin.com/in/kanan-bayram . I'm always open to interesting projects, discussions, and opportunities to learn and grow.
 
 <!--
 **kananbayramli/kananbayramli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
